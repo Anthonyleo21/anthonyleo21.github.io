@@ -8,4 +8,12 @@ strong {
 
 span.destacado {
     color:orange;}
-    
+
+
+#subtitulo {
+    color: blue;
+}
+
+span.especial {
+    color:purple;
+}
