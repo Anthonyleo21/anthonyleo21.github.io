@@ -1,3 +1,6 @@
+html{
+    font-size: 32xp; /*1em=32xp*/
+}
 #titulo {
     color:brown;
 }
@@ -17,3 +20,27 @@ span.destacado {
 span.especial {
     color:yellow;
 }
+
+a em{
+    color: blue;
+}
+
+/***********eslitols para la tabla********/
+th, tr, td{
+    border:1px solid;
+    border-collapse: collpse;
+    padding:5xp;
+}
+
+caption{
+    color:blue;
+}
+
+td {
+    color:green;
+}
+th.especial{
+
+    color: orange;
+}
+/*******fin de la tabla*******/
