@@ -17,3 +17,9 @@ span.destacado {
 span.especial {
     color:yellow;
 }
+
+
+th, tr, td{
+    border:1px solid;
+
+}
